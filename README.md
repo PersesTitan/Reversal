@@ -8,7 +8,7 @@
 # 사용법
 상단에 다운로드 링크를 통해서 jar파일을 받아 주시고 jar파일을 라이브러리에 추가해주세요.
 
-## reversal(배열 또는 List)
+## reversal(배열 또는 List);
 설명 : reversal안에 배열 또는 List를 넣으면 순서가 반전됩니다.</br>
 리턴 타입 : void</br>
 지원 하는 배열 : Byte, Short, Integer, Long, Float, Double, Character, Boolean, byte, short, int, long, float, double, char, boolean, String, List</br>
